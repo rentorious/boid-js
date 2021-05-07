@@ -5,4 +5,7 @@ I'm doing this before implementing it in 3d, in C++ with OpenGL. I wanted to get
 Inspired by: [Sebastian Lague](https://youtu.be/bqtqltqcQhw)
 
 ## In Action
+
+### [Live Demo](https://rentorious.github.io/boid-js-test/)
+
 ![Boids in action](./boids.gif "Boids flying")
