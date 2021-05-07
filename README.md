@@ -2,4 +2,7 @@
 
 I'm doing this before implementing it in 3d, in C++ with OpenGL. I wanted to get a hang of coding the principles first.
 
-Inspired by: [Sebastian Lague]([I'm an inline-style link](https://youtu.be/bqtqltqcQhw)
+Inspired by: [Sebastian Lague](https://youtu.be/bqtqltqcQhw)
+
+## In Action
+![Boids in action](./boids.gif "Boids flying")
