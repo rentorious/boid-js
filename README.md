@@ -6,6 +6,6 @@ Inspired by: [Sebastian Lague](https://youtu.be/bqtqltqcQhw)
 
 ## In Action
 
-### [Live Demo](https://rentorious.github.io/boid-js-test/)
+### [Live Demo](https://rentorious.github.io/boid-js/)
 
 ![Boids in action](./boids.gif "Boids flying")
